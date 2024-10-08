@@ -28,9 +28,7 @@ void Line::nhap() {
 
 void Line::xuat() {
 	cout << endl;
-	cout << "Diem dau: ";
 	p1.xuat();
-	cout << "Diem cuoi: ";
 	p2.xuat();
 	cout << "Do dai duong thang: " << khoangCach() << endl;
 }
