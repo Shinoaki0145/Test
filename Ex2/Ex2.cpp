@@ -1,5 +1,5 @@
 #include "Ex2.h"
-
+// nhan dau buiii
 void Point::nhap() {
 	cout << "Nhap x: ";
 	cin >> x;
