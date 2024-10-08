@@ -11,7 +11,7 @@ void Phanso::nhap() {
 			cout << "Mau so phai khac 0. Nhap lai." << endl;
 	} while (mau == 0);
 
-	dinhdaiphanso();
+	//dinhdaiphanso();
 	rutgon();
 }
 
