@@ -10,9 +10,6 @@ void Phanso::nhap() {
 		if (mau == 0)
 			cout << "Mau so phai khac 0. Nhap lai." << endl;
 	} while (mau == 0);
-
-	//dinhdaiphanso();
-	rutgon();
 }
 
 void Phanso::xuatPhanSo() {
